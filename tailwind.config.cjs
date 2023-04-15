@@ -10,6 +10,8 @@ module.exports = {
       white: "#ffffff",
       "text-gray": "#a0a0a0",
       "black-50": "rgba(0,0,0,0.6)",
+      blue: "#7dd3fc",
+      "blue-hover": "#0ea5e9",
     },
     spacing: {
       2: "2px",
