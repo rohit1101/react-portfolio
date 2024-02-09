@@ -12,7 +12,7 @@ function App() {
           <p className="text-base">Rohit S</p>
           <ul className="flex text-text-gray text-base gap-16">
             <li className="cursor-pointer hover:text-blue">
-              <a href="https://ecstatic--dev.hashnode.dev">Blog</a>
+              <a href="https://rohit1101.hashnode.dev">Blog</a>
             </li>
             <li
               className="cursor-pointer hover:text-blue"
