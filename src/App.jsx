@@ -4,7 +4,6 @@ import LinkedIn from "./assets/linkedin.svg";
 
 function App() {
   const contactRef = useRef(null);
-  console.log(contactRef);
   return (
     <div>
       <div className="h-screen  w-full bg-cover items-center p-32 pt-12 bg-black-50 bg-blend-overlay bg-[url('./assets/profile.webp')] bg-center lg:bg-top text-white">
