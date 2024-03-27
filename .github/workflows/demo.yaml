@@ -1,4 +1,4 @@
-name: GitHub Actions Demo-1
+name: GitHub Actions - list files in the repository
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
