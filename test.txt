@@ -1,1 +1,1 @@
-Hi from test.txt
+Fix CI server trigger
