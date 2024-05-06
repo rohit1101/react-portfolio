@@ -21,3 +21,7 @@ jobs:
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py')
+    - name: use secrets
+      run: | 
+        ls -la
+        echo {{ secrets.SLACK_WEBHOOK_URL }}
