@@ -26,17 +26,11 @@ function App() {
             Helping companies build better, scalable software.
           </h1>
           <p className=" text-text-gray py-12">
-            Hey there, My name is Rohit and I'm a front-end developer with 2
-            years full-time work experience. I have worked on JavsScript, React,
-            Gatsby, tailwind CSS, Redux, Node, Strapi(headless CMS) and
-            postgreSQL. In order to push myself past my comfort zone and work in
-            a demanding atmosphere, I'm interested in acquiring hard skills over
-            time, such as creating a web application or a web product. When
-            things are difficult, I exhibit tenacity and character 💪🏼. Over all,
-            I am inquisitive and enjoy digging deep into a problem to find out
-            why, how, and what caused it. In the end, this is what motivates me
-            every day. Please feel free to contact me if you believe we can
-            create valueable web applications.
+            ## Welcome to My Professional Page
+
+Greetings! I'm a results-driven DevOps Engineer and Frontend Developer with a robust skill set in both domains. As an AWS Cloud Practitioner Certified professional, I excel in deploying and managing cloud applications, configuring Linux environments, and implementing version control best practices with Git. My passion for automation drives me to leverage Python, Ansible, Terraform, Jenkins CI/CD, Docker, and YAML to enhance development workflows and ensure efficient, reliable infrastructure management.
+
+On the frontend, I am proficient in HTML, CSS, JavaScript, React, Redux-toolkit, Chakra UI, and Tailwind CSS. I specialize in building high-performance, scalable websites using Gatsby.js and the JAMstack architecture. Committed to continuous learning, I stay ahead of industry trends and am always eager to adopt new technologies. Let's connect to discuss how my DevOps skills and frontend expertise can contribute to your projects or team. I am open to collaboration and ready to bring innovative solutions to your development needs. Additionally, I have a track record of contributing to open-source projects, such as enhancing Focalboard Mattermost with new features.
           </p>
         </main>
       </div>
