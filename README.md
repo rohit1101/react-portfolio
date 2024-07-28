@@ -1,3 +1,3 @@
 ### Todo
 
-update readme.md
+update README.md
